@@ -6,9 +6,9 @@ Use the features in the provided dataset to help Beks create a binary classifier
 From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization.
 
 ## Deliverables:
-Deliverable 1: Preprocessing Data for a Neural Network Model
-Deliverable 2: Compile, Train, and Evaluate the Model
-Deliverable 3: Optimize the Model
+1. Deliverable 1: Preprocessing Data for a Neural Network Model
+2. Deliverable 2: Compile, Train, and Evaluate the Model
+3. Deliverable 3: Optimize the Model
 
 ## Results: 
 
